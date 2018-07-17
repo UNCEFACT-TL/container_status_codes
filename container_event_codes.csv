@@ -1,0 +1,197 @@
+﻿TRANSPORTATION_EVENT_ID,EVENT_CODE,NAME,DESCRIPTION
+1,A,Arrived Delivery,Arrived at Place of Delivery
+2,AE,Vessel Load,Full Container Loaded on Vessel
+3,AL,Loaded Rail,Loaded on Rail for Intermodal Move to Load Port
+4,AM,Loaded Truck,Loaded on Truck for Intermodal Move to Load Port
+5,AO,Loaded Barge,Loaded on Barge for Intermodal Move to Load Port
+6,AR,Rail Arrived Destination,Rail Arrival at Destination Intermodal Ramp
+7,CV,Rehandled,Container Re-handled
+8,D,Delivered,Completed Unloading at Delivery Location
+9,EE,Empty Picked Up,Empty Container Pickup 
+10,FT,Free Time Expired,Free Time Expired
+11,I,Gated In,In Gate at Place of Delivery
+12,J,Intermodal Interchange,Delivered to Connecting Intermodal Line
+13,MT,Empty Committed,Empty Container Committed 
+14,NF,Free Time to Expire,Free Time to Expire
+15,OA,Gated Out,Out Gate at Last Intermodal Point
+16,RD,Returned,Return Container
+17,RL,Rail Departed Origin,Rail Departure - Origin Intermodal Ramp
+18,SC,Seals Altered,Container Seals Altered
+19,UV,Unloaded from Vessel,Full Container Unloaded from Vessel
+20,3,RETURNED TO SHIPPER,Returned to Shipper
+21,AA,PICK-UP APPOINTMENT DATE AND ,Pickup Appointment Date and Time
+23,C2,CANADA CUSTOMS INSPECTION SCH,Canada Customs Inspection Scheduled
+24,CC,CHASSIS UN-TIE,Chassis Un-Tie
+25,CT,CUSTOMS RELEASED,Customs Release
+28,HH,HELD-NO BOOKING NUMBER,Held - No Booking Number
+29,PP,"US DEPT. AGR, HOLD FOR BACTER",USDA Hold - Bacterial Contamination
+30,RA,PICKUP APPOINTMENT REQUESTED,Pickup Appointment Requested
+31,SB,SHIPMENT CONSOLIDATION,Shipment Consolidation
+32,TC,HELD FOR TERMINAL CHARGES,Held for Terminal Charges
+33,U,UNLOADING,Unloading
+34,UD,UNIT - COFC/TOFC SERVICE,Unit - COFC/TOFC Service
+35,X6,EN ROUTE TO DELIVERY LOCATION,En Route to Delivery Location
+36,ZZ,MUTUALLY DEFINED,Mutually Defined
+37,A1,AGRICULTURE CANADA HOLD,Agriculture Canada Hold
+38,BC,STORAGE - IN - TRANSIT,Storage In Transit
+39,CD,RECEIVED AT ORIGIN,Received at Origin
+40,CU,CARRIER AND CUSTOMS RELEASE,Carrier and Customs Release
+41,E,ESTIMATED TO ARRIVE (EN ROUTE),Estimated to Arrive (En Route)
+42,HI,HELD-TITLE CLEARANCE,Held - Title Clearance
+43,NO,OCEAN CHARGES PAID,Ocean Charges Paid
+44,PQ,U.S. CUSTOMS HOLD AT PLACE OF,US Customs Hold at Place of Vessel Arrival
+45,RB,DELIVERY APPOINTMENT REQUESTED,Delivery Appointment Requested
+47,UE,UNIT - PICKUP/DELIVERY SERVICE,Unit - Pickup/Delivery Service
+49,V,VESSEL REHANDLE,Vessel Re-handle
+50,X7,EN ROUTE TO PICK-UP LOCATION,En Route to Pickup Location
+51,A2,AGRICULTURE CANADA RELEASED,Agriculture Canada Released
+52,AC,AWAITING CLEARANCE,Awaiting Clearance
+53,BD,RECOMMITTED DELIVERY DATE,Recommitted Delivery Date
+55,F,IN FLIGHT,in Flight
+56,GI,TERMINAL GATE INSPECTION,Terminal Gate Inspection
+57,NP,TERMINAL CHARGES PAID,Terminal Charges Paid
+58,PA,"US CUSTOM HOLD, INTENSIVE EXAM",US Customs Hold - Intensive Examination
+59,PR,U.S. CUSTOMS HOLD AT IN-BOND,US Customs Hold at In-Bond Destination
+60,RC,RESERVE CONTAINER AGAINST BOOK,Reserve Container Against Booking
+61,SD,SHIPMENT DELAYED,Shipment Delayed
+62,UW,INTERMODAL UNIT WEIGHED,Intermodal Unit Weighed
+63,W,RELEASED BY CUSTOMER,Released by Customer
+64,WH,WEIGHT TOO HEAVY - HIGHWAY,Weight Too Heavy - Highway
+65,X8,ARRIVED AT PICK-UP LOCATION LO,Arrived at Pickup Location Loading Dock
+66,A3,AGRICULTURE CANADA REFUSED ENT,Agriculture Canada Refused Entry
+67,AD,DELIVERY APPOINTMENT DATE AND ,Delivery Appointment Date and Time
+68,BE,EST. TIME OF ARRIVAL AT SCHEDU,ETA at Scheduled Pickup Location
+69,G,REPAIRED AND/OR RELEASED FROM ,Repaired and/or Released from Bad Order
+71,PB,"US CUSTOM HOLD, INSUFFICIENT P",US Customs Hold - Insufficient Paperwork
+72,PS,U.S. DEPT. OF AGRIC. HOLD AT P,USDA Hold at Place of Vessel Arrival
+74,X,REMOVED FROM CUSTOMER DOCK OR ,Removed from Customer Dock or Siding
+75,X9,DELIVERY APPOINTMENT SECURED,Delivery Appointment Secured
+76,A4,AGRICULTURE CANADA CONDITIONAL,Agriculture Canada Conditional Release
+78,AV,AVAILABLE FOR DELIVERY,Available for Delivery
+79,BF,BOOKING CONFIRMED,Booking Confirmed
+80,EI,INTERCHANGE INFORMATION RECEIV,Interchange Information Received
+81,H,EQUIPMENT SHOPPED FOR HEAVY RE,Equipment Shopped for Heavy Repair
+82,LP,LATE PICKUP APPOINTMENT DATE A,Late Pickup Appointment Date and/or Time
+83,NR,SHIPMENT INFORMATION NOT RECEI,Shipment Information Not Received
+84,OB,ORIGINAL BILL OF LADING RECEIV,Original Bill of Lading Received
+85,PC,"US CUSTOM HOLD, DISCREPANCY IN",US Customs Hold - Discrepancy in Paperwork
+86,PT,U.S. DEPT OF AGRICULTURE HOLD ,USDA Hold at In-Bond Arrival
+87,Y,CONSTRUCTIVELY PLACED,Constructively Placed
+88,AF,DEPARTED PICKUP LOCATION,Departed Pickup Location
+89,AW,AWAITING EXPORT,Awaiting Export
+91,NS,NO SEAL ON LOAD,No Seal on Load
+92,PD,"US CUSTOM HOLD, DISCREPANCY IN",US Customs Hold - Discrepancy in Piece Count
+93,PU,OTHER U.S. AGENCY HOLD AT PLAC,Other Agency Hold at Place of Vessel Arrival
+94,Z,ACTUALLY PLACED,Actually Placed
+95,AG,ESTIMATED DELIVERY,Estimated Delivery
+96,CI,PASSING,Passing
+98,NC,CONFIRMATION OF NOTIFICATION,Confirmation of Notification
+99,NT,NOTIFICATION,Notification
+100,PE,"US CUSTOM HOLD, HOLD BY COAST",US Customs Hold - Coast Guard Hold
+101,PV,OTHER U.S. AGENCY HOLD AT IN-,Other Agency Hold at In-Bond Destination
+102,AH,ATTEMPTED DELIVERY,Attempted Delivery
+103,K,ARRIVED AT CUSTOMS,Arrived at Customs
+105,ND,TECHNICAL CHARGES DUE,Technical Charges Due
+106,NU,NOTIFICATION REFUSED,Notification Refused
+107,PF,"US CUSTOM HOLD, HOLD BY F.B.I",US Customs Hold - FBI Hold
+108,PW,U.S. DEPARTMENT OF AGRICULTUR,USDA Hold - Fumigation
+109,SI,RECEIPT OF SHIPPING INSTRUCTI,Receipt of Shipping Instructions
+110,AI,SHIPMENT HAS BEEN RECONSIGNED,Shipment Has Been Re-consigned
+111,GO,GENERAL ORDER,General Order
+112,L,LOADING,Loading
+113,OF,OFF-HIRE CONTAINER,Off-Hire Container
+114,PG,"US CUSTOM HOLD, HOLD BY LOCAL",US Customs Hold - Local Law Enforcement Hold
+115,PX,U.S. DEPT. OF AGRIC HOLD FOR ,USDA Hold - Document Inspection
+116,RI,MOVEMENT TYPE CHANGED FROM NO,Movement Type Changed to In-Bond
+117,AJ,TENDERED FOR DELIVERY,Tendered for Delivery
+118,IR,MOVEMENT TYPE CHANGED FROM IN,Movement Type Changed to Not In-Bond
+119,LD,LATE DELIVERY APPOINTMENT DAT,Late Delivery Appointment Date and/or Time
+121,PH,"US CUSTOM HOLD, HOLD BY COURT",US Customs Hold - Hold by Court Imposed Lien
+122,DN,DELIVERY NOT CONFIRMED,Delivery Not Confirmed
+123,FP,FREIGHT PAID,Freight Paid
+124,HA,HELD - PROTECTIVE SERVICE,Held - Protective Service
+125,HR,HOLD RELEASED,Hold Released
+126,IB,"U.S. CUSTOMS, IN-BOND MOVEMEN",US Customs In-Bond Movement Authorized
+127,N,NO PAPERWORK RECEIVED WITH SH,No Paperwork Received - Shipment or Equipment
+128,OH,ON HAND,On Hand
+129,PI,"US CUSTOM HOLD, HOLD BY FOOD ",US Customs Hold - Food and Drug Hold
+130,TM,INTRA-TERMINAL MOVEMENT,Intra-Terminal Movement
+132,EP,EARLY PICKUP APPOINTMENT DATE,Early Pickup Appointment Date and/or Time
+133,NH,NO HAZARDOUS MATERIAL DOCUMEN,No Hazardous Material Document Received
+134,O,PAPERWORK REC'D-DID NOT RECE,Paperwork Rec'd.  Shipment
+135,PJ,"US CUSTOM HOLD, HOLD BY FISH ",US Customs Hold - Fish and Wildlife Hold
+137,XA,PICK-UP APPOINTMENT SECURED,Pickup Appointment Secured
+139,CO,CARGO RECEIVED AT CONTRACTUAL,Cargo Received at Contractual Place of Receipt
+140,DP,UNIT PRE-TRIPPED,Unit Pre-Tripped
+141,P,DEPARTED TERMINAL LOCATION,Departed Terminal Location
+142,PK,"US CUSTOM HOLD, HOLD BY DRUG ",US Customs Hold - DEA Hold
+143,SN,SHIPMENT NOT AUTHORIZED,Shipment Not Authorized
+144,TO,TERMINATE TO OWNER,Terminate to Owner
+145,UP,UNABLE TO PROCESS SHIPMENT,Unable to Process Shipment
+146,WR,WEIGHT TOO HEAVY - RAIL,Weight Too Heavy - Rail
+147,X1,ARRIVED AT DELIVERY LOCATION,Arrived at Delivery Location
+148,XB,SHIPMENT ACKNOWLEDGED,Shipment Acknowledged
+149,AN,DELIVERED TO AIR CARRIER,Delivered to Air Carrier
+150,EA,ESTIMATE APPROVED,Estimate Approved
+151,ER,ESTIMATE RECEIVED,Estimate Received
+152,PL,"US DEPT. AGR, HOLD FOR INTENS",USDA Hold - Intensive Investigation
+153,RN,RENOTIFICATION,Re-Notification
+154,VA,VESSEL ARRIVAL,Vessel Arrival
+155,X2,ESTIMATED TIME OF ARRIVAL AT ,ETA at Consignee Location
+158,DA,REPAIR AUTHORIZATION REQUESTE,Repair Authorization Requested
+159,DR,REPAIR AUTHORIZATION RECEIVED,Repair Authorization Received
+161,HE,HELD-AWAITING SHIPPER'S EXPO,Held - Awaiting Shipper's Export Document
+162,PM,"US DEPT. AGR, HOLD FOR UNREGI",USDA Hold - Unregistered Producer
+163,R,RECEIVED FROM PRIOR CARRIER,Received from Prior Carrier
+164,UA,UNIT - LEASED TO CONNECTING L,Unit - Leased to Connecting Line
+165,UR,UNLOADED FROM A RAIL CAR,Unloaded from Rail Car
+166,X3,ARRIVED AT PICK-UP LOCATION,Arrived at Pickup Location
+167,AP,LOADED ON FEEDER VESSEL,Loaded on Feeder Vessel
+168,B,BAD ORDER (INOPERATIVE OR DAM,Bad Order (Inoperative or Damaged)
+169,CA,SHIPMENT CANCELLED,Shipment Cancelled
+170,CR,CARRIER RELEASE,Carrier Release
+171,DS,DAMAGE SURVEY REQUESTED,Damage Survey Requested
+172,HF,HELD-AWAITING RECOUNT/WEIGHT/,Held - Awaiting Recount/Weight/Description
+173,PN,"US DEPT. AGR, HOLD FOR RESTRI",USDA Hold - Restricted Commodity
+174,S,SPOTTED AT CONSIGNEE'S LOCAT,Spotted at Consignee's Location
+175,UB,UNIT - RETURNED FROM CONNECTI,Unit - Returned from Connecting Line
+176,X4,ARRIVED AT TERMINAL LOCATION,Arrived at Terminal Location
+177,2,RETURNED TO CARRIER'S TERMIN,Returned to Carrier's Terminal
+178,BA,SET OFF AT AGENT,Set Off at Agent
+179,BR,BILL OF LADING RELEASED,Bill of Lading Released
+180,C,ESTIMATED TO DEPART TERMINAL ,Estimated to Depart Terminal Location
+181,C1,CANADA CUSTOMS HOLD,Canada Customs Hold
+182,CB,CHASSIS TIE,Chassis Tie
+183,CS,CONTAINER SEALED,Container Sealed
+184,DC,UNIT CLEANED,Unit Cleaned
+185,DT,DAMAGE SURVEY COMPLETED,Damage Survey Completed
+186,ED,EARLY DELIVERY APPOINTMENT DA,Early Delivery Appointment Date and/or Time
+187,HG,HELD ON GROUND,Held on Ground
+188,ON,ON-HIRE CONTAINER,On-Hire Container
+189,PO,"US DEPT. AGR, HOLD FOR INSECT",USDA Hold - Insect Infestation
+190,SA,SHIPMENT SPLIT,Shipment Split
+191,T,AT TERMINAL - INTTRA TERMINAL,Intra-Terminal Movement at Terminal
+192,UC,UNIT - SHOPPED HELD AT TERMIN,Unit - Shopped Held at Terminal
+193,VD,VESSEL DEPARTURE,Vessel Departure
+194,X5,ARRIVED AT DELIVERY LOCATION ,Arrived at Delivery Location Loading Dock
+800000,DV,VESSEL ARRIVAL DEVIATION,Vessel Arrival Deviation
+800100,?,Unrecognized EDI Event,Unrecognized EDI Event
+800200,DD,VESSEL DEPARTURE DEVIATION,Vessel Departure Deviation
+800201,0,Unrecognized EDI Event,Unrecognized EDI Event
+800202,I ,Unrecognized EDI Event,Automatically generated from EDI message
+800203,OV,Unrecognized EDI Event,Unrecognized EDI Event
+800204,VT,Unrecognized EDI Event,Unrecognized EDI Event
+800205,AT,Unrecognized EDI Event,Unrecognized EDI Event
+800206,80,Unrecognized EDI Event,Return Container (Empty)
+800207,98,Unrecognized EDI Event,In Gate (Full)
+800208,99,Unrecognized EDI Event,Out Gate (Full)
+800209,27,Unrecognized EDI Event,Empty Equipment Dispatched
+800210,48,Unrecognized EDI Event,Loaded on Vessel
+800211,29,Unrecognized EDI Event,Unloaded from Vessel
+800212,24,Unrecognized EDI Event,Vessel Departure
+800213,1,Unrecognized EDI Event,Vessel Arrival
+800214,82,Unrecognized EDI Event,Return Container (Empty)
+800215,78,Unrecognized EDI Event,Carrier Release
+800357,TA,Unrecognized EDI Event,Unrecognized EDI Event
+800358,TD,Unrecognized EDI Event,Unrecognized EDI Event
+800359,CL,Unrecognized EDI Event,Automatically generated from EDI message
